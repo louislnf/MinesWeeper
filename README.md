@@ -1,9 +1,9 @@
-#MinesWeeper
+# MinesWeeper
 
-##Summary
+## Summary
 
 C implementation of the famous "MinesWeeper" game to be played in the console.
 
-##Libraries
+## Libraries
 
 To manage the display in the console, the library *<ncurses.h>* is used.
